@@ -1,0 +1,29 @@
+
+.navigation{
+
+
+  /*position: fixed;*/
+  width: 35vw;
+  /* height: 100%; */
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+
+}
+.content {
+  width: 65vw;
+  padding: 1rem 5rem;
+}
+.container {
+background-image:url("coin.jpg");
+background-repeat:no-repeat;
+background-size:400px 9000px;
+padding-bottom:900px;
+display:flex;
+}
+
+
+
+
+
